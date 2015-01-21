@@ -1,4 +1,4 @@
 # hello-world
-First test repositor
+First test repository
 
 Hello. This is my first commit in GitHub portal :). 
